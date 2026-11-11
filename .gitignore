@@ -1,0 +1,7 @@
+train.txt
+vectorizer.pkl
+logistic_model.pkl
+naive_bayes.pkl
+emotion_mapping.pkl
+main2.py
+svm_model.pkl
